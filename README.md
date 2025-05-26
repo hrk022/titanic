@@ -4,9 +4,6 @@ A data science project using the Titanic dataset to predict passenger survival u
 
 ---
 
-## 📁 Dataset
-
-The dataset used is the classic **Titanic** dataset, available from [Kaggle's Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
 ---
 
